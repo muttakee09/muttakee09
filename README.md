@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saad.
-- 👀 I’m interested in backend architectures, blockchain and system design.
-- 🌱 I’m currently learning ASP.NET and AngularJS.
+- 👀 I’m interested in system design and cloud infrastructure.
 
 <!---
 muttakee09/muttakee09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
